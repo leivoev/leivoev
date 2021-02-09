@@ -1,5 +1,7 @@
 ### Hi there 😷
 
+[Here's My Resume](https://www.notion.so/Minhyung-Kim-6faf6f6561934fbe890b4dbcb99cdc3c)
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=leivoev&theme=tokyonight)](https://github.com/leivoev)
 
 ### solved.ac(BOJ) 📝
